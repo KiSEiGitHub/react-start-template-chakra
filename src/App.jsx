@@ -1,9 +1,10 @@
 import React from "react";
+import {Text} from "@chakra-ui/react";
 
 function App() {
     return (
         <>
-            <h1>Hello From React</h1>
+            <Text variant='Hello'>Hello From React & Chakra</Text>
         </>
     );
 }
