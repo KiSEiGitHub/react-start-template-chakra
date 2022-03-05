@@ -4,7 +4,7 @@
 ````
 npm install 
 ````
-For download all dependecies like **react-router-dom** and **Chakra-UI**
+For download all dependecies like **react-router-dom** and [Chakra](https://chakra-ui.com/)
 
 
 ## How to root ?
